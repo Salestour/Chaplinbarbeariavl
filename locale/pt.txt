@@ -1,0 +1,97 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_39979942_2112_37E8_41BE_AD01DE19B64C.source = http://twitter.com/loremipsum
+LinkBehaviour_39961941_2112_37E8_41BF_FF352CE36A54.source = http://www.facebook.com/loremipsum
+LinkBehaviour_34A4D2E2_24AA_0825_4191_AD92FEB0FD58.source = https://api.whatsapp.com/send?phone=5511982427132
+LinkBehaviour_3D3C0D1A_2312_0F98_41B1_201B37944EB1.source = https://api.whatsapp.com/send?phone=5511982427132&text=OLA%20QUERO%20SABER%20MAIS%20SOBRE%20VOC%C3%8AS%20!
+LinkBehaviour_3571F193_25AA_08E4_41A6_A3CF2B6081FC.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_35739194_25AA_08EC_41BF_D5A76C6FBCCD.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_354E3196_25AA_08EC_41BE_3F4C53B54B4D.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_35763188_25AA_08E4_41C3_4D967FE776C3.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_35BEC67C_25AA_081D_41B5_D50C43EB9825.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_35774191_25AA_08E4_41C4_D804AA146BC2.source = https://portfolio.robertosales.com.br/
+PopupWebFrameBehaviour_38921A00_2115_F568_41BA_5EEB307D35B8.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14625.647489934549!2d-46.5795739!3d-23.5895573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b4a5049d3b5c99c!2sCHAPLIN%20BARBEARIA%20SP!5e0!3m2!1spt-BR!2sbr!4v1658423517069!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_375EE59A_2116_1E98_41C0_40494B6EAF7D.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14625.647489934549!2d-46.5795739!3d-23.5895573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b4a5049d3b5c99c!2sCHAPLIN%20BARBEARIA%20SP!5e0!3m2!1spt-BR!2sbr!4v1658423517069!5m2!1spt-BR!2sbr
+LinkBehaviour_3D13209B_2312_1698_41B8_CE91F6BE928A.source = https://www.instagram.com/chaplinbarbearia/
+LinkBehaviour_3BD28F7D_24DE_181C_41B6_5913653C8FE1.source = https://www.instagram.com/chaplinbarbearia/
+LinkBehaviour_3997D941_2112_37E8_41B5_29EFD46A148B.source = https://www.loremipsum.com
+PopupWebFrameBehaviour_3F2F6C05_23F2_0D68_41AF_C8818C6BF88F.url = //www.youtube.com/embed/B3zoIeXG-BE
+
+## Hotspot
+
+### Tooltip
+overlay_24229F82_2C66_18E5_4193_0601BA002936.toolTip = CLIQUE AQUI
+HotspotPanoramaOverlayArea_3F1A90A0_23F2_16A8_41BA_78D1242A56F7.toolTip = CLIQUE AQUI 
+
+## Media
+
+### Audio
+audiores_3D0BFD24_2312_0FA8_41A7_C92166BEDF24.mp3Url = media/audio_3D918BA1_2312_0AA8_41B2_8BDB93A8F4EF_pt.mp3
+
+### Image
+imlevel_365A7596_217E_3F68_41AF_F2A0CA9973D3.url = media/popup_396C4813_217E_3568_417C_C9B6915A39BC_pt_0_0.jpg
+
+### Popup Image
+
+### Title
+panorama_091C41D8_1ED4_6747_41BA_8FFEE1093CCF.label = CHAPLIN 4
+video_3A1E88DD_2C66_181C_41BB_880323A1017D.label = Reels chaplin
+panorama_14099D5A_184D_E9B8_41AB_5D8FE5BADD97.label = entrada1
+panorama_13646E5B_184D_ABB8_41B3_FF03F33AA268.label = entrada2
+panorama_1368BE3B_184D_ABF8_41A7_E660815A2D71.label = fachada chaplin
+panorama_13687F39_184D_69F8_41B4_DBA44FF9213C.label = galera
+panorama_13680FA0_184E_A888_41B1_0166A28A2E03.label = meio3
+
+### Video
+videolevel_34AA68A4_24A6_182C_41C4_1694E35639B9.posterURL = media/video_3A1E88DD_2C66_181C_41BB_880323A1017D_poster_pt.jpg
+videolevel_34AA68A4_24A6_182C_41C4_1694E35639B9.url = media/video_3A1E88DD_2C66_181C_41BB_880323A1017D_pt.mp4
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = INSTAGRAM
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = INSTAGRAM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = LOCALIZAÇÃO
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = LOCALIZAÇÃO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = WHATSAPP
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = WHATSAPP
+
+### Image
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile_pt.png
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_pt.png
+Image_36DA7F8A_2112_0B78_41C0_87700D57F166_mobile.url = skin/Image_36DA7F8A_2112_0B78_41C0_87700D57F166_mobile_pt.jpeg
+Image_36DA7F8A_2112_0B78_41C0_87700D57F166.url = skin/Image_36DA7F8A_2112_0B78_41C0_87700D57F166_pt.jpeg
+Image_39410BC7_2C5E_186C_41C5_43262AC41055.url = skin/Image_39410BC7_2C5E_186C_41C5_43262AC41055_pt.png
+Image_3B1327FB_2112_7A9F_41B9_71013BF4AA61.url = skin/Image_3B1327FB_2112_7A9F_41B9_71013BF4AA61_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.019999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5699999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.45vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.249999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.43vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.6);text-align:left;font-size:5.249999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.6);text-align:left;font-size:7.43vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = TOUR FEITO PELO SALESTOUR360
+
+### Title
+tour.name = CHAPLIN BARBEARIA 
